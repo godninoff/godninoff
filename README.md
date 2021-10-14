@@ -10,3 +10,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godninoff&show_icons=true&locale=en" alt="godninoff" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godninoff&" alt="godninoff" /></p>
+
+- 📫 Связь со мной: **Telegram @godninoff**

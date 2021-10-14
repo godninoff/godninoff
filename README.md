@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godninoff&" alt="godninoff" /></p>
 
-- 📫 Связь со мной: **Telegram @godninoff**
+- 📫 Связь со мной: **Telegram: [@godninoff](https://t.me/godninoff)**
